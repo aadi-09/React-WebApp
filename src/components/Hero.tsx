@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { fadeIn } from "@/lib/motion";
+import { fadeIn } from "./lib/motion";
 
 export function Hero() {
   return (

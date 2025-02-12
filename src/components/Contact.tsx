@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { fadeIn } from "@/lib/motion";
+import { fadeIn } from "./lib/motion";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";

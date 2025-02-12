@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
-import { fadeIn } from "@/lib/motion";
+import { fadeIn } from "./lib/motion";
 import { Card, CardContent } from "@/components/ui/card";
-import { projects } from "@/lib/constants";
+import { projects } from "./lib/constants";
 
 export function Projects() {
   return (

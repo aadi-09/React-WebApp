@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { fadeIn } from "@/lib/motion";
+import { fadeIn } from "./lib/motion";
 import { SiReact, SiTypescript, SiNodedotjs, SiThreedotjs } from "react-icons/si";
 
 export function Skills() {
